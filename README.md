@@ -13,4 +13,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Polarisink's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarisink)](https://github.com/polarisink/github-readme-stats)
+[![Polarisink's GitHub stats](https://github-readme-stats.vercel.app/api?username=polarisink&show_icons=true&theme=radical)](https://github.com/polarisink/github-readme-stats)
