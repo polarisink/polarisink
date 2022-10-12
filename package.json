@@ -18,7 +18,16 @@
     "repo": "kbpma2",
     "mdNameFormat": "title",
     "postPath": "source/_posts/yuque",
-    "onlyPublished": true
+    "onlyPublished": false,
+    "onlyPublic": false,
+    "lastGeneratePath": "lastGeneratePath.log",
+    "imgCdn": {
+      "enabled": true,
+      "imageBed": "oss",
+      "bucket": "lqsgoodboy",
+      "region": "oss-cn-shanghai",
+      "prefixKey": "yuque_hexo/"
+    }
   },
   "hexo": {
     "version": "6.3.0"

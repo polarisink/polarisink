@@ -25,7 +25,9 @@ jobs:
       # from https://github.com/x-cold/yuque-hexo 
       - name: Setup Hexo Dependencies and Generate Public Files 
         env: 
-          YUQUE_TOKEN: ${{ secrets.YUQUE_TOKEN }} 
+          YUQUE_TOKEN: ${{ secrets.YUQUE_TOKEN }}
+          SECRET_ID: ${{ secrets.SECRET_ID }}
+          SECRET_KEY: ${{ secrets.SECRET_KEY }}
         run: | 
           npm install hexo-cli -g 
           npm install yuque-hexo -g 
