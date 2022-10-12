@@ -26,7 +26,7 @@
       "imageBed": "oss",
       "bucket": "lqsgoodboy",
       "region": "oss-cn-shanghai",
-      "prefixKey": "yuque_hexo/"
+      "prefixKey": "yuque_hexo"
     }
   },
   "hexo": {
