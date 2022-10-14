@@ -18,8 +18,8 @@
     "repo": "kbpma2",
     "mdNameFormat": "title",
     "postPath": "source/_posts/yuque",
-    "onlyPublished": false,
-    "onlyPublic": false,
+    "onlyPublished": true,
+    "onlyPublic": true,
     "lastGeneratePath": "lastGeneratePath.log",
     "imgCdn": {
       "enabled": true,
