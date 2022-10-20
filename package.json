@@ -23,10 +23,11 @@
     "lastGeneratePath": "lastGeneratePath.log",
     "imgCdn": {
       "enabled": true,
-      "imageBed": "oss",
-      "bucket": "lqsgoodboy",
-      "region": "oss-cn-shanghai",
-      "prefixKey": "yuque_hexo"
+      "imageBed": "github",
+      "host": "cdn.jsdelivr.net",
+      "bucket": "images",
+      "region": "",
+      "prefixKey": "blog"
     }
   },
   "hexo": {
