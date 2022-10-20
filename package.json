@@ -24,7 +24,7 @@
     "imgCdn": {
       "enabled": true,
       "imageBed": "oss",
-      "bucket": "aries-blog",
+      "bucket": "lqsgoodboy",
       "region": "oss-cn-shanghai",
       "prefixKey": "yuque_hexo"
     }
