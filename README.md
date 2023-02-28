@@ -2,37 +2,37 @@
 
 <img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" top='60' alt="GIF" width="50%" />
 
-
 ### I'm  Liu QingSong（Aries） 🚀
 
 <br/>
 
-- 🌱    I’m currently learning Golang and CPP
-
-- 🍒    A post-00s person who loves software development.
-
-- 📍    武汉(WuHan).
-
-- 👨‍🎓  AHUT.
-
-- 👩‍💻  2 years of work.
-
-- 🕸️   website: https://polaris.ink
+- 🌱 I’m currently learning Golang and CPP
+<br/>
+<br/>
+- 🍒 A post-00s person who loves software development.
+<br/>
+<br/>
+- 📍 武汉(WuHan).
+<br/>
+<br/>
+- 👩‍💻 2 years of work.
+<br/>
+<br/>
+- 🕸️ website: https://polaris.ink
 
 <br/>
 <br/>
 
 <br/>
 <br/>
-
 
 ## My Skill Set
+
 <table><tr>
 <td valign="top" width="50%">
 
-
-
 ### Backend
+
 <div align="center">  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 <a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
@@ -48,9 +48,8 @@
 
 </td><td valign="top" width="50%">
 
-
-
 ### DevOps
+
 <div align="center">  
 <a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
 <a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
@@ -63,9 +62,8 @@
 
 <br/>  
 
-
-
 ## Connect with me
+
 <div align="center">
 <a href="https://github.com/polarisink" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -81,8 +79,8 @@
 
 <br/>  
 
-
 ## 🌠Coding Time
+
 > the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=polarisink&theme=calm&show_icons=true) -->
@@ -90,25 +88,16 @@
 
 <div>
     <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=polarisink&theme=calm&show_icons=true" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisink&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+    <img  src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisink&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
 </div>
 
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=polarisink&&style=flat-square" align="center" />
-</div>  
-
-
+</div>
 <br/>  
 
-<div align="center">
-            <a href="https://www.buymeacoffee.com/polarisink" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+
 
 ----
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
