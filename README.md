@@ -1,8 +1,6 @@
-
-
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" top='60' alt="GIF" style="width: 50%" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" top='60' alt="GIF" width="480" />
 
 
 ### I'm  Liu QingSong（Aries） 🚀
@@ -84,13 +82,16 @@
 <br/>  
 
 
-## Github Stats
+## 🌠Coding Time
+> the projects I'm working on
 
 <!-- ![My stats](https://github-readme-stats.vercel.app/api?username=polarisink&theme=calm&show_icons=true) -->
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisink&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
 
-<br/>  
-
+<div>
+    <img height="165" align="left" src="https://github-readme-stats.vercel.app/api?username=polarisink&theme=calm&show_icons=true" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=polarisink&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6&layout=compact" />
+</div>
 
 
 <div align="center">
