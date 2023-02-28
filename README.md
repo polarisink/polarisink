@@ -1,27 +1,28 @@
 
 
 ### Hi there 👋
-<img align="right" top='60' alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="480"/>
+
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" top='60' alt="GIF" style="width: 50%" />
 
 
-
-### I'm  Liu QingSong(Aries) 🚀
+### I'm  Liu QingSong（Aries） 🚀
 
 <br/>
 
-- 🌱 I’m currently learning Golang and CPP
+- 🌱    I’m currently learning Golang and CPP
 
-- 🍒  A post-00s person who loves software development.
+- 🍒    A post-00s person who loves software development.
 
-- 📍  武汉(WUHAN).
+- 📍    武汉(WuHan).
 
 - 👨‍🎓  AHUT.
 
 - 👩‍💻  2 years of work.
 
+- 🕸️   website: https://polaris.ink
+
 <br/>
 <br/>
-You are my ![Visitor Count](https://profile-counter.glitch.me/polarisink/count.svg)th visitor
 
 <br/>
 <br/>
@@ -84,8 +85,12 @@ You are my ![Visitor Count](https://profile-counter.glitch.me/polarisink/count.s
 
 
 ## Github Stats
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=polarisink&show_icons=true&count_private=true&hide_border=true" align="center" /></div>
+
+<!-- ![My stats](https://github-readme-stats.vercel.app/api?username=polarisink&theme=calm&show_icons=true) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=polarisink&hide=html,css,Jupyter+Notebook,ruby,javascript&theme=calm&langs_count=6) -->
+
 <br/>  
+
 
 
 <div align="center">
