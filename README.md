@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" top='60' alt="GIF" width="480" />
+<img src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" align="right" top='60' alt="GIF" width="50%" />
 
 
 ### I'm  Liu QingSong（Aries） 🚀
