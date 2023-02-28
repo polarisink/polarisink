@@ -7,17 +7,9 @@
 <br/>
 
 - 🌱 I’m currently learning Golang and CPP
-<br/>
-<br/>
 - 🍒 A post-00s person who loves software development.
-<br/>
-<br/>
 - 📍 武汉(WuHan).
-<br/>
-<br/>
 - 👩‍💻 2 years of work.
-<br/>
-<br/>
 - 🕸️ website: https://polaris.ink
 
 <br/>
