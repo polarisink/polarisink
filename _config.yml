@@ -5,11 +5,11 @@
 # Site
 title: 北辰代码海游记
 subtitle: '北辰学习中的各种记录'
-description: '一个爱摄影的程序员的生活记录'
+description: '北辰代码海游记'
 keywords: 北辰代码海游记
 author: Areis
 language: zh-CN
-timezone: ''
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
