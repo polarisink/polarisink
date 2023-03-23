@@ -7,8 +7,8 @@
 <br/>
 
 - 🌱 I’m currently learning Java and Golang and C++.
-- 🍒 A post-00s person who loves software development.
-- 📍 武汉(WuHan).
+- 🍒 A post-00s developer.
+- 📍  武汉(WuHan).
 - 👩‍💻 2 years of work.
 - 🕸️ website: https://polaris.ink
 
