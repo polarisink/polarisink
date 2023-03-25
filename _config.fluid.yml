@@ -881,8 +881,6 @@ giscus:
   emit-metadata: 0
   input-position: top
   lang: zh-CN
-  loading: lazy
-  crossorigin: anonymous
 
 #---------------------------
 # 归档页
