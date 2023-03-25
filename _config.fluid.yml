@@ -870,10 +870,10 @@ cusdis:
 # Based on GitHub Discussions, similar to Utterances
 # See: https://giscus.app/
 giscus:
-  repo: polarisink/discussions
-  repo-id: R_kgDOJOAjQw
+  repo: polarisink/polarisink
+  repo-id: R_kgDOGg565Q
   category: Announcements
-  category-id: DIC_kwDOJOAjQ84CVIX2
+  category-id: DIC_kwDOGg565c4CVIbD
   theme-light: light
   theme-dark: dark
   mapping: title
@@ -881,6 +881,7 @@ giscus:
   emit-metadata: 0
   input-position: top
   lang: zh-CN
+  loading: lazy
 
 #---------------------------
 # 归档页
