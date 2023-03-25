@@ -533,7 +533,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://aries-blog.oss-cn-hangzhou.aliyuncs.com/beauty.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -967,7 +967,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: https://aries-blog.oss-cn-hangzhou.aliyuncs.com/sun.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
