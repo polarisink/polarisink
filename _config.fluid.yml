@@ -876,7 +876,7 @@ giscus:
   category-id: DIC_kwDOJOAjQ84CVIX2
   theme-light: light
   theme-dark: dark
-  mapping: pathname
+  mapping: title
   reactions-enabled: 1
   emit-metadata: 0
   input-position: top
