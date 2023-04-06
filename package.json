@@ -54,7 +54,9 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
+    "hexo-sync-mp-blog": "^1.0.2",
     "hexo-theme-fluid": "^1.9.4",
+    "metaweblog-api": "^1.2.0",
     "yuque-hexo": "^1.9.5"
   }
 }
