@@ -103,13 +103,13 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 ## Docs: https://blog.lingma.top/2022/09/16/f59bd7844399/hexo-%E9%80%9A%E8%BF%87-metaweblog-api-%E5%90%8C%E6%AD%A5%E5%90%84%E5%A4%A7%E5%8D%9A%E5%AE%A2%E7%BD%91%E7%AB%99/index.html
 deploy:
-  - type: hexo-sync-mp-blog
-    blogtype: 博客园  # 博客网站标题
-    checkdays: 3  # 同步几天内的的  文章的时间 即MD的date属性
-    username: lqscdy
-    password: sK_5XcsgTfwiUFZ
-    apiurl: https://rpc.cnblogs.com/metaweblog/cymx  #网站提供的MetaWebLog url
-    wait: 30  #等待时间 毫秒
+  type: hexo-sync-mp-blog
+  blogtype: 博客园  # 博客网站标题
+  checkdays: 3  # 同步几天内的的  文章的时间 即MD的date属性
+  username: lqscdy
+  password: sK_5XcsgTfwiUFZ
+  apiurl: https://rpc.cnblogs.com/metaweblog/cymx  #网站提供的MetaWebLog url
+  wait: 30  #等待时间 毫秒
 # 开启压缩
 neat_enable: true
 neat_html:
