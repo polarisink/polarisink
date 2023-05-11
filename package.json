@@ -23,6 +23,15 @@
     "lastGeneratePath": "lastGeneratePath.log",
     "imgCdn": {
       "enabled": true,
+      "imageBed": "oss",
+      "concurrency": 0,
+      "host": "cdn.jsdelivr.net",
+      "bucket": "aries-blog",
+      "region": "oss-cn-hangzhou",
+      "prefixKey": "yuque_hexo"
+    },
+    "imgCdnBack": {
+      "enabled": true,
       "imageBed": "github",
       "concurrency": 1,
       "host": "cdn.jsdelivr.net",
@@ -35,6 +44,7 @@
     "version": "6.3.0"
   },
   "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
     "hexo": "^6.3.0",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
@@ -45,7 +55,9 @@
     "hexo-renderer-marked": "^6.0.0",
     "hexo-renderer-stylus": "^2.1.0",
     "hexo-server": "^3.0.0",
-    "hexo-theme-fluid": "^1.9.3",
+    "hexo-sync-mp-blog": "^1.0.2",
+    "hexo-theme-fluid": "^1.9.4",
+    "metaweblog-api": "^1.2.0",
     "yuque-hexo": "^1.9.5"
   }
 }

@@ -63,8 +63,8 @@ code:
       # 在链接中挑选 style 填入
       # Select a style in the link
       # See: https://highlightjs.org/static/demo/
-      style: "solarized-light"
-      style_dark: "solarized-dark"
+      style: "obsidian"
+      style_dark: "obsidian"
 
     prismjs:
       # 在下方链接页面右侧的圆形按钮挑选 style 填入，也可以直接填入 css 链接
@@ -460,7 +460,8 @@ footer:
 index:
   # 首页 Banner 头图，可以是相对路径或绝对路径，以下相同
   # Path of Banner image, can be a relative path or an absolute path, the same on other pages
-  banner_img: /img/default.png
+  # banner_img: /img/default.png
+  banner_img: https://aries-blog.oss-cn-hangzhou.aliyuncs.com/0pacpikmxgs.jpg
 
   # 头图高度，屏幕百分比
   # Height ratio of banner image
@@ -532,7 +533,7 @@ index:
 # Post Page
 #---------------------------
 post:
-  banner_img: /img/default.png
+  banner_img: https://aries-blog.oss-cn-hangzhou.aliyuncs.com/beauty.jpg
   banner_img_height: 70
   banner_mask_alpha: 0.3
 
@@ -724,11 +725,11 @@ post:
   # 评论插件
   # Comment plugin
   comments:
-    enable: false
+    enable: true
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus
-    type: disqus
+    type: giscus
 
 
 #---------------------------
@@ -869,13 +870,13 @@ cusdis:
 # Based on GitHub Discussions, similar to Utterances
 # See: https://giscus.app/
 giscus:
-  repo:
-  repo-id:
-  category:
-  category-id:
+  repo: polarisink/polarisink
+  repo-id: R_kgDOGg565Q
+  category: Announcements
+  category-id: DIC_kwDOGg565c4CVIbD
   theme-light: light
   theme-dark: dark
-  mapping: pathname
+  mapping: title
   reactions-enabled: 1
   emit-metadata: 0
   input-position: top
@@ -966,7 +967,7 @@ about:
 # Custom Page through `hexo new page`
 #---------------------------
 page:
-  banner_img: /img/default.png
+  banner_img: https://aries-blog.oss-cn-hangzhou.aliyuncs.com/sun.jpg
   banner_img_height: 60
   banner_mask_alpha: 0.3
 
@@ -1029,11 +1030,11 @@ links:
   # 评论插件
   # Comment plugin
   comments:
-    enable: false
+    enable: true
     # 指定的插件，需要同时设置对应插件的必要参数
     # The specified plugin needs to set the necessary parameters at the same time
     # Options: utterances | disqus | gitalk | valine | waline | changyan | livere | remark42 | twikoo | cusdis | giscus
-    type: disqus
+    type: giscus
 
 
 #---------------------------
