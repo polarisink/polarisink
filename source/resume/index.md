@@ -56,7 +56,7 @@ date: 2023-03-24 20:29:36
 
 ---
 ## 项目经历
-### 四位一体项目
+### 四位一体
 - 开发工具：Idea、Linux、Docker、Minio、ApiFox
 - 应用技术：SpringBoot、Jpa、QueryDSL、Redis、Maven
 - 项目描述：一个机床制造过程生命周期（装配、调试、补偿、健康保障）过程中的状态记录，处理存储与分析的应用
