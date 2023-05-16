@@ -7,9 +7,9 @@ date: 2023-03-24 20:29:36
 
 - 刘青松：男/1999.3
 - 工作年限：2年
-- 语雀：[polaris](https://www.yuque.com/polarisink)
-- 技术博客：https://polaris.ink
-- Github：http://github.com/polarisink
+- 语雀：[polaris🔗](https://www.yuque.com/polarisink)
+- 技术博客：[北辰代码海游记🔗](https://polaris.ink)
+- Github：[polarisink🔗](http://github.com/polarisink)
 - 期望职位：`Java初级开发`/`Golang初级开发`
 - 期望薪资：税前月薪12k~14k，特别喜欢的公司可例外
 - 期望城市：`成都`/`杭州`/`武汉`/`南京`
@@ -111,11 +111,11 @@ date: 2023-03-24 20:29:36
 
 ## 开源项目
 
-### [zinx](https://github.com/polarisink/zinx)
+### [zinx🔗](https://github.com/polarisink/zinx)
 
 - About Based on Golang Lightweight TCP Concurrent server framework
 
-### [cloud-disk](https://github.com/polarisink/cloud-disk)
+### [cloud-disk🔗](https://github.com/polarisink/cloud-disk)
 
 - One based on Ali Cloud OSS, using Golang written cloud-disk application back-end
 
