@@ -7,9 +7,9 @@ date: 2023-03-24 20:29:36
 
 - 刘青松：男/1999.3
 - 工作年限：2年
-- 语雀：[polaris](https://www.yuque.com/polarisink)
-- 技术博客：https://polaris.ink
-- Github：http://github.com/polarisink
+- 语雀：[polaris🔗](https://www.yuque.com/polarisink)
+- 技术博客：[北辰代码海游记🔗](https://polaris.ink)
+- Github：[polarisink🔗](http://github.com/polarisink)
 - 期望职位：`Java初级开发`/`Golang初级开发`
 - 期望薪资：税前月薪12k~14k，特别喜欢的公司可例外
 - 期望城市：`成都`/`杭州`/`武汉`/`南京`
@@ -28,8 +28,8 @@ date: 2023-03-24 20:29:36
 ---
 
 ## 技能清单
-- Java：熟练掌握Java基础，OOP/AOP思想，有良好的代码风格，熟练使用Debug进行程序调试
-- Web后端：掌握SpringBoot、SpringCloud体系技术栈使用及相关常用注解方法，使用过Vert.x/Quarkus，有一点了解
+- Java：熟练掌握Java基础，OOP、AOP思想；了解MVC、DDD思想；有良好的代码风格，熟练使用debug进行程序调试
+- Web后端：掌握SpringBoot、SpringCloud体系技术栈使用及相关常用注解方法，使用过Vert.x、Quarkus，有一点了解
 - 数据库相关：掌握通用sql，熟练使用MySQL，包括sql性能优化，索引优化；掌握Redis常见使用；了解TdEngine的使用
 - ORM：熟练使用JPA进行数据库全自动管理，快速实现业务；熟练使用MybatisPlus
 - 版本管理、文档：Git、Swagger、ApiFox
@@ -111,11 +111,11 @@ date: 2023-03-24 20:29:36
 
 ## 开源项目
 
-### [zinx](https://github.com/polarisink/zinx)
+### [zinx🔗](https://github.com/polarisink/zinx)
 
 - About Based on Golang Lightweight TCP Concurrent server framework
 
-### [cloud-disk](https://github.com/polarisink/cloud-disk)
+### [cloud-disk🔗](https://github.com/polarisink/cloud-disk)
 
 - One based on Ali Cloud OSS, using Golang written cloud-disk application back-end
 
