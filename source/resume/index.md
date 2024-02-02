@@ -7,11 +7,10 @@ date: 2023-03-24 20:29:36
 
 - 刘青松：男/1999.3
 - 工作年限：2年
-- 语雀：[polaris🔗](https://www.yuque.com/polarisink)
 - 技术博客：[北辰代码海游记🔗](https://polaris.ink)
 - Github：[polarisink🔗](http://github.com/polarisink)
 - 期望职位：`Java初级开发`/`Golang初级开发`
-- 期望薪资：税前月薪12k~14k，特别喜欢的公司可例外
+- 期望薪资：税前月薪12k~15k，特别喜欢的公司可例外
 - 期望城市：`成都`/`杭州`/`武汉`/`南京`
 
 ---
