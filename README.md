@@ -6,7 +6,7 @@
 
 <br/>
 
-- 🌱 I’m currently learning Java and Golang and C++.
+- 🌱 I’m currently learning Java and Golang.
 - 🍒 A post-00s developer.
 - 📍  武汉(WuHan).
 - 👩‍💻 4 years of work.
